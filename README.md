@@ -1,27 +1,18 @@
-GBFS Maze Solver
+# GBFS Maze Solver
 
-Overview
-
+## Overview
 A Python maze-solving program developed as an individual project using Greedy Best-First Search (GBFS).
 
-Features
+## Features
+- Uses Manhattan distance as a heuristic.
+- Displays the solution path and movement directions.
+- Visualises the maze, explored nodes, and final path.
+- Records search performance, including execution time and nodes expanded.
+- Tests 10 different start and goal positions with a summary table.
 
-Uses Manhattan distance as a heuristic.
+## Technologies
+- Python
+- Jupyter Notebook
 
-Displays the solution path and movement directions.
-
-Visualises the maze, explored nodes, and final path.
-
-Records search performance, including execution time and nodes expanded.
-
-Tests 10 different start and goal positions with a summary table.
-
-Technologies
-
-Python
-
-Jupyter Notebook
-
-Project Type
-
+## Project Type
 Individual Project
